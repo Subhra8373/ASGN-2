@@ -16,4 +16,10 @@ It parses the ASN.1 structure of the certificate to identify the public key curv
 Make sure you have Python installed, then run:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
+
+### 1. Run
+Make sure you have Python installed, then run:
+
+```bash
+pip3 main.py
